@@ -33,9 +33,5 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  dog_one = {
-  :name => "Luca",
-  :breed => "German Shepherd"
-}
 
 end
