@@ -33,5 +33,13 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-
+  
+  
+  if update_counting["top hat"]
+  
+  update_counting["top hat"] += 1
+  else
+  
+  update_counting["top hat"] = 1
 end
+
